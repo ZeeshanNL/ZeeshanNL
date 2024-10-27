@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Zeeshan Khan]
+# 👋 Hi, I'm Zeeshan Khan
 
 > Freelance Test Automation Engineer specializing in end-to-end testing solutions across Web, Mobile, and API platforms.
 
