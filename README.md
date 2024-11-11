@@ -15,8 +15,8 @@
 - 🌐 **Web Testing**: Robotframework, Webdriver IO, Selenium WebDriver, Playwright, Cypress
 - 📱 **Mobile Testing**: Appium
 - 🔄 **API Testing**: Postman, Rest Assured, Ready API
-- ✅ **Unit Testing**: JUnit, 
-- 📊 **Reporting**: Allure
+- ✅ **Unit Testing**: JUnit
+- 📊 **Reporting**: Allure, HTML
 - 🗃️ **Database**: SQL
 
 ### CI/CD & Version Control
@@ -30,26 +30,6 @@
 - Set up CI/CD pipelines for continuous testing
 - Performance and load testing implementation
 - Cross-browser and cross-platform testing strategies
-
-## 💼 Recent Projects
-
-### 🌟 E-Commerce Test Framework
-- Built a hybrid test automation framework using C# and Selenium
-- Implemented BDD with SpecFlow
-- Achieved 80% test coverage
-- Reduced regression testing time by 70%
-
-### 📱 Mobile Banking App Automation
-- Developed cross-platform mobile tests using Appium
-- Implemented parallel test execution
-- Created custom reporting solution
-- Achieved 90% test automation coverage
-
-### 🔄 API Testing Framework
-- Designed modular API testing framework using Python
-- Implemented data-driven testing approach
-- Created comprehensive test documentation
-- Integrated with CI/CD pipeline
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeshan-khan-a5737514b/)
